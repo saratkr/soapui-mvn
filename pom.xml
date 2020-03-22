@@ -57,7 +57,7 @@
                             <printReport>true</printReport>
                             <exportAll>true</exportAll>
 							<printReport>true</printReport>
-							<testFailIgnore>true</testFailIgnore>
+							<testFailIgnore>false</testFailIgnore>
 							<projectProperties>
 									<value>property1=fromMaven1</value>
 									<value>property2=fromMaven1</value>
